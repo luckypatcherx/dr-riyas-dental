@@ -2268,7 +2268,7 @@ ul.feature-list li i {
     width: 100%;
     opacity: 0;
     visibility: hidden;
-    background-color: #000;
+   
 	-webkit-transition: 0.5s;
 	transition: 0.5s;
 }
