@@ -4627,3 +4627,9 @@ blockquote::after, .blockquote::after {
 .copyright-area ul li:first-child {
 	margin-left: 0;
 }
+
+.dr-hover{
+	font-weight: bold;
+	font-style: italic;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
