@@ -1126,7 +1126,9 @@ ul.feature-list li i {
 .navbar-area.is-sticky .navbar-nav .nav-item a {
 	color: #565656;
 }
-
+.footer-logo img{
+	max-width: 75px;
+}
 .navbar-area.is-sticky .navbar-nav .nav-item a:hover, .navbar-area.is-sticky .navbar-nav .nav-item a:focus, .navbar-area.is-sticky .navbar-nav .nav-item a.active {
 	color: #1877dd;
 }
