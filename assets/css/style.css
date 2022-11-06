@@ -1120,7 +1120,9 @@ ul.feature-list li i {
 	-webkit-transition: 0.4s;
 	transition: 0.4s;
 }
-
+.text-align-center{
+	text-align: center !important;
+}
 .navbar-area.is-sticky .navbar-nav .nav-item a {
 	color: #565656;
 }
