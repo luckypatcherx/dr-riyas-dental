@@ -1136,6 +1136,9 @@ ul.feature-list li i {
 .navbar-area.is-sticky .tooth-nav .navbar-brand .black-logo {
 	display: block;
 }
+.navbar-brand img{
+	width: 75%;
+}
 
 @media only screen and (max-width: 991px) {
 	.navbar-area {
