@@ -4643,5 +4643,32 @@ blockquote::after, .blockquote::after {
 		margin-left:33.3%;
 	}
 }
-/*extra end end
+
+
+.phone-fl {
+    padding-bottom: 20px;
+    bottom: 140px !important;
+	right: 15px;
+}
+.phone-f1 {
+    padding-bottom: 20px;
+    bottom: 140px !important;
+}
+.float {
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    bottom: 80px;
+    right: 22px;
+    background-color: #25d366;
+    color: #FFF;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 2px 2px 3px #999;
+    z-index: 5000;
+}
+
+/*extra end end*/
+
 
