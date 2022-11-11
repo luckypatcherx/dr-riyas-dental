@@ -4633,3 +4633,15 @@ blockquote::after, .blockquote::after {
 	font-style: italic;
 	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+/*extra*/
+@media (min-width: 992px){
+
+}
+@media (min-width: 1200px){
+	.centerx{
+		margin-left:33.3%;
+	}
+}
+/*extra end end
+
