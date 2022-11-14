@@ -202,6 +202,12 @@ p:last-child {
 	padding-top: 12px;
 	padding-bottom: 12px;
 }
+.EL4Yye{
+	width: 100% !important;
+}
+.navbar-nav{
+	align-items: center;
+}
 
 .default-btn span {
 	position: absolute;
